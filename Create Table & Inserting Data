@@ -1,0 +1,29 @@
+# Creating Team Table
+--------------------------
+CREATE TABLE TEAM
+(TEAM_ID VARCHAR2(50),TEAM_NAME VARCHAR2(50));
+------------------------------------------------
+#inserting Records Team Table
+INSERTING DATA TEAM TABLE
+------------------------------------
+INSERT INTO TEAM VALUES ('IND','INDIA');
+INSERT INTO TEAM VALUES ('ENG','England');
+INSERT INTO TEAM VALUES ('NZ','New Zealand');
+INSERT INTO TEAM VALUES ('SA','South Africa');
+INSERT INTO TEAM VALUES ('AUS','Australia');
+INSERT INTO TEAM VALUES ('PAK','Pakistan');
+INSERT INTO TEAM VALUES ('BAN','Bangladesh');
+INSERT INTO TEAM VALUES ('SL','Sri Lanka');
+INSERT INTO TEAM VALUES ('WI','West Indies');
+INSERT INTO TEAM VALUES ('AFG','Afghanistan');
+INSERT INTO TEAM VALUES ('IRE','Ireland');
+INSERT INTO TEAM VALUES ('ZIM','Zimbabwe');
+INSERT INTO TEAM VALUES ('NET','Netherlands');
+INSERT INTO TEAM VALUES ('OMA','Oman');
+INSERT INTO TEAM VALUES ('SCO','Scotland');
+INSERT INTO TEAM VALUES ('NEP','Nepal');
+INSERT INTO TEAM VALUES ('NAM','Namibia');
+INSERT INTO TEAM VALUES ('UAE','United Arab Emirates');
+INSERT INTO TEAM VALUES ('USA','United STATE AMERICA');
+INSERT INTO TEAM VALUES ('PNG',Papua New Guinea');
+-----------------------------------------
